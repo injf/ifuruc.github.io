@@ -113,5 +113,6 @@
 <p>Yours sincerely,</p>
 <p>Dr Eleanor Gaye</p>
 
+<p>University of Awesome motto:<strong>"Be awesome to each other."</strong> -- Bill S Preston,<abbr title="Esquire">Esq</abbr></p>
 	</body>
 </html> 
