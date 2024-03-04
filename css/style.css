@@ -1,4 +1,4 @@
-/* Imported Typeface Files */
+/* General setup */
 
 @font-face {
     font-family:Lato;
@@ -173,4 +173,3 @@ footer {
     padding-right: 1rem;
     border-top: #333;
     border-width: 2rem;
-}
