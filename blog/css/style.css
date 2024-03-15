@@ -95,10 +95,23 @@ h1,h2,h3,h4 {
     box-shadow: 5px 5px 4px -1px #888;
 }
 
+button {
+    display: inline-block;
+    font-family: ultra, Georgia, serif;
+    border: 1px solid black; 
+    padding: 1rem 2rem;
+    border-radius: 0.3rem;
+    border-top-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    color: #FFE2E4;
+    background-color: #8D0A12;
+    box-shadow: 5px 5px 4px -1px #888;
+}
+
 h1 { 
     font-size: 3rem;
     letter-spacing: 0.25rem;
-    transform: rotate(45deg);
+    transform: rotate(-5deg);
 }
 
 /* GENERAL SETUP AND DEFAULTS */ 
@@ -115,6 +128,10 @@ body {
     margin: 1.5rem auto;
     width:90%;
     min-width:56.25rem;
+}
+
+.expand {
+    font-size: 0.25rem;
 }
 
 /* LAYOUT */ 
@@ -159,7 +176,7 @@ figure {
     margin: 0px; 
 }
 
-.artle-image {
+.article-image {
     width: 33%; 
     float: left;
     margin-right: 0.75rem; 
